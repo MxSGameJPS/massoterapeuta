@@ -67,7 +67,7 @@ const Bg = styled.div`
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: url("/public/image/fundo2.jpg") center center/cover no-repeat;
+  background: url("/image/fundo2.jpg") center center/cover no-repeat;
   z-index: 1;
 `;
 
